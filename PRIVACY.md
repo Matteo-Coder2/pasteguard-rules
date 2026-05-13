@@ -95,6 +95,12 @@ PasteGuard's extension pages run under a strict CSP: `script-src 'self'; object-
 - The PasteGuard modal will appear
 - The Network panel stays empty — no requests are made by PasteGuard
 
+## About the marketing website
+
+The marketing site at [pasteguard.io](https://pasteguard.io) is served from Cloudflare Pages and uses [Cloudflare Web Analytics](https://www.cloudflare.com/web-analytics/) — a privacy-respecting, cookieless analytics product — for aggregate page views, referrers, and country-level visit data. No personal data, no cookies, no third-party trackers.
+
+**This applies only to the marketing site.** The Chrome extension itself uses no analytics whatsoever — see the rest of this policy.
+
 ## Contact
 
 - For privacy questions: open an issue at [github.com/Matteo-Coder2/pasteguard-rules/issues](https://github.com/Matteo-Coder2/pasteguard-rules/issues)
