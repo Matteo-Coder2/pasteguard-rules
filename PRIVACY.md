@@ -101,10 +101,15 @@ The marketing site at [pasteguard.io](https://pasteguard.io) is served from Clou
 
 **This applies only to the marketing site.** The Chrome extension itself uses no analytics whatsoever — see the rest of this policy.
 
+## Security disclosure
+
+If you find a security or privacy issue, please email `security@pasteguard.io` before disclosing publicly. We treat security reports as high-priority and will credit you on the fix announcement if you'd like.
+
 ## Contact
 
 - For privacy questions: open an issue at [github.com/Matteo-Coder2/pasteguard-rules/issues](https://github.com/Matteo-Coder2/pasteguard-rules/issues)
-- For support: `support@pasteguard.io`
+- For general support: `support@pasteguard.io`
+- For security disclosure: `security@pasteguard.io`
 
 ## Changes to this policy
 
